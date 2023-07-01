@@ -7,21 +7,21 @@ html {
   }
   
   .bgImage {
-    background: url("/images/cover.webp");
+    background: url("/question4KidsCards/cover.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
   }
   
   .bgDayImg {
-    background: url("/images/day.jpg");
+    background: url("/question4KidsCards/images/day.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
   }
   
   .bgNightImg {
-    background: url("/images/evening.jpg");
+    background: url("/question4KidsCards/images/nightCard.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
@@ -84,14 +84,14 @@ html {
   }
   
   .front {
-    background: url("/images/dayCardImg.jpg");
+    background: url("/question4KidsCards/images/dayCardImg.jpg");
     background-size: cover;
     background-position: bottom;
     opacity: 70%;
   }
   
   .frontNIGHT {
-    background: url("/images/nightCard.jpg");
+    background: url("/question4KidsCards/images/nightCard.jpg");
     background-size: cover;
     background-position: bottom;
     opacity: 80%;
